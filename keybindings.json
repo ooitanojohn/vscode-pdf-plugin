@@ -1,0 +1,26 @@
+// 既定値を上書きするには、このファイル内にキー バインドを挿入します
+[
+  // TextTabels 初期値
+  // Ctrl + q 後 Ctrl+q-テーブルモードを切り替えます。
+  // Ctrl+q+f-カーソルの下のテーブルをフォーマットします。
+  // Ctrl+q 後 スペース-カーソルのセルをクリアします。
+  // ※ ctrl + space で 過去の入力履歴がでる
+  // ctrl+q 後 enterテーブル新規作成
+  {
+    "key": "ctrl+q enter",
+    "command": "text-tables.createTable",
+    "when": "tableMode"
+  },
+  // tabで次のセルに
+  {
+    "key": "tab",
+    "command": "text-tables.gotoNextCell",
+    "when": "tableMode"
+  },
+  // shift+tabで前のセルに
+  {
+    "key": "shift+tab",
+    "command": "text-tables.gotoPreviousCell",
+    "when": "tableMode"
+  },
+]

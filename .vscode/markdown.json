@@ -1,0 +1,9 @@
+{
+	"test": {
+		"prefix": "",
+		"body": [
+			"df"
+		],
+		"description": "Log output to console"
+	}
+}

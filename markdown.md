@@ -66,7 +66,7 @@
           - | Table: Delete Rows            | Ctrl+Shift+D, Ctrl+Shift+R    |
           - | Table: Delete Columns         | Ctrl+Shift+D, Ctrl+Shift+C    |
         - [keybind設定はコマンドパレットからコマンドを検索]
-          - ![ctrl+shift+p](./img/keybind.jpgkeybind.jpg)
+          - ![ctrl+shift+p](./img/keybind.jpg)
           - ![⚙](./img/keybindsetting.jpg)
     - paste機能
     -
@@ -80,3 +80,6 @@
   - [環境変数の設定](https://qiita.com/7iva/items/9ecd7f2f178cd7c1d0b3)
   - [環境変数(公式)](https://www.digitalocean.com/community/tutorials/how-to-read-and-set-environmental-and-shell-variables-on-linux-ja)
 
+### コミットメッセージで繰り返し言葉を手早く打ちたい技術
+  - [打ちたい時あるよね？](https://dic.nicovideo.jp/a/%E5%A4%B1%E6%95%97%E3%81%97%E3%81%9F%E5%A4%B1%E6%95%97%E3%81%97%E3%81%9F%E5%A4%B1%E6%95%97%E3%81%97%E3%81%9F%E5%A4%B1%E6%95%97%E3%81%97%E3%81%9F%E5%A4%B1%E6%95%97%E3%81%97%E3%81%9F)
+  - [GNU-nanoで加工](https://dev.classmethod.jp/articles/git-commit-gnu-nano/)
